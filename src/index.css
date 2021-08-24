@@ -7,9 +7,10 @@ h2 {
 }
 
 .card {
-  width: 50%;
+  width: 30%;
   margin: 0 auto;
   text-align: center;
+  border: 0.01rem solid black;
 }
 
 .list-group {
